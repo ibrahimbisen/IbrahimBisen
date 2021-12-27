@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Grey and Controller**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Python Algorithms**
 
 - 👯 I’m looking to collaborate on **Mentor**
 
