@@ -1,8 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ibrahim Eren Bisen</h1>
+<h3 align="center">I am an Aerospace Engineer student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbisen&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbisen" /> </p>
 
 - 🔭 I’m currently working on **Grey and Controller**
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on **Mentor**
 
@@ -17,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimbisen&show_icons=true&locale=en&layout=compact" alt="ibrahimbisen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimbisen&show_icons=true&locale=en" alt="ibrahimbisen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimbisen&" alt="ibrahimbisen" /></p>
