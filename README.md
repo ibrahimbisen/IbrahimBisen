@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Eren Bisen</h1>
 <h3 align="center">I am an Aerospace Engineer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbisen&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbisen" /> </p>
-
 - 🔭 I’m currently working on **Grey and Controller**
 
 - 🌱 I’m currently learning **Python Algorithms**
